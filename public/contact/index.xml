@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drop Us A Note on HOTOSM - Mapping Senegal Emergency Health Services</title>
-    <link>/senegal-HOTOSM/contact/</link>
+    <link>/contact/</link>
     <description>Recent content in Drop Us A Note on HOTOSM - Mapping Senegal Emergency Health Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Contents published under CC-BY4.0 unless stated otherwise - [Talarify](http://www.talarify.co.za) All Rights Reserved</copyright>
     
-	<atom:link href="/senegal-HOTOSM/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
