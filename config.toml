@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = ""
+baseURL = "https://anelda.github.io/senegal-HOTOSM/"
 title = "HOTOSM - Mapping Senegal Emergency Health Services"
 theme = "airspace-hugo"
 # post pagination
