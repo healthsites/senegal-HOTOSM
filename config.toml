@@ -90,7 +90,7 @@ weight = 4
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "n July 2020 OpenStreetmap Senegal will map all the public hospitals in Senegal and update the emergency health services available. This is part of a wider campaign of healthsites.io to define emergency health services throughout Africa."
 author = "Talarify"
 # Contact Information
 mobile = ""
