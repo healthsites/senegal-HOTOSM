@@ -3,8 +3,8 @@ pricing:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Basic"
-      price: "$99"
+    - name : "Project Lead"
+      price: "healthsites.io"
       content : "Perfect for single freelancers who work by themselves"
       link : "#"
       services:

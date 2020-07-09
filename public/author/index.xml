@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on HOTOSM - Mapping Senegal Emergency Health Services</title>
-    <link>/author/</link>
-    <description>Recent content in Authors on HOTOSM - Mapping Senegal Emergency Health Services</description>
+    <title>Authors on Mapping Senegal Emergency Health Services</title>
+    <link>/senegal-emergency-health-data/author/</link>
+    <description>Recent content in Authors on Mapping Senegal Emergency Health Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Contents published under CC-BY4.0 unless stated otherwise - [Talarify](http://www.talarify.co.za) All Rights Reserved</copyright>
+    <copyright>Contents published under CC-BY4.0 unless stated otherwise - [healthsites.io](https://healthsites.io/) All Rights Reserved - 2020</copyright>
     
-	<atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/senegal-emergency-health-data/author/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>John Doe</title>
-      <link>/author/john-doe/</link>
+      <link>/senegal-emergency-health-data/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/john-doe/</guid>
+      <guid>/senegal-emergency-health-data/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>/author/mark-dinn/</link>
+      <link>/senegal-emergency-health-data/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/mark-dinn/</guid>
+      <guid>/senegal-emergency-health-data/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
