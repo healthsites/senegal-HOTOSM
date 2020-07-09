@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://healthsites.github.io/senegal-emergency-health-data"
+baseURL = "https://healthsites.github.io/senegal-emergency-health-data/"
 title = "Mapping Senegal Emergency Health Services"
 theme = "airspace-hugo"
 # post pagination
