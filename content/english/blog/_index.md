@@ -1,6 +1,6 @@
 ---
-bg_image: images/featue-bg.jpg
-description: this is meta description
+bg_image: images/blog-bg.jpg
+description: Learn more about our mappers, data, challenges, and lessons learned
 draft: false
-title: Latest News
+title: Blog 
 ---

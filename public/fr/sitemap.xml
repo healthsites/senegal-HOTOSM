@@ -3,518 +3,348 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/faq/</loc>
+    <loc>/senegal-emergency-health-data/fr/faq/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/faq/"
+                href="/senegal-emergency-health-data/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/faq/"
+                href="/senegal-emergency-health-data/fr/faq/"
                 />
   </url>
   
   <url>
-    <loc>/fr/</loc>
+    <loc>/senegal-emergency-health-data/fr/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/senegal-emergency-health-data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="/senegal-emergency-health-data/fr/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/advice/</loc>
+    <loc>/senegal-emergency-health-data/fr/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/tags/ai/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/tags/android/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/categories/artificial-intelligence/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/categories/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/advice/"
+                href="/senegal-emergency-health-data/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/advice/"
+                href="/senegal-emergency-health-data/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/ai/</loc>
+    <loc>/senegal-emergency-health-data/fr/tags/company/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/categories/company-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/ai/"
+                href="/senegal-emergency-health-data/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/ai/"
+                href="/senegal-emergency-health-data/fr/blog/blog-post-1/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/android/</loc>
+    <loc>/senegal-emergency-health-data/fr/blog/blog-post-2/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/blog/blog-post-3/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/blog/blog-post-4/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/blog/blog-post-5/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/blog/blog-post-6/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/blog/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/android/"
+                href="/senegal-emergency-health-data/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/android/"
+                href="/senegal-emergency-health-data/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/artificial-intelligence/</loc>
+    <loc>/senegal-emergency-health-data/fr/categories/legacy-support/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/tags/mechine/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/tags/news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/tags/retro/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/tags/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/artificial-intelligence/"
+                href="/senegal-emergency-health-data/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/artificial-intelligence/"
+                href="/senegal-emergency-health-data/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>/senegal-emergency-health-data/fr/tags/technology/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/senegal-emergency-health-data/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="/senegal-emergency-health-data/fr/author/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/company/"
+                href="/senegal-emergency-health-data/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/company/"
+                href="/senegal-emergency-health-data/fr/contact/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/company-news/"
+                href="/senegal-emergency-health-data/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/company-news/"
+                href="/senegal-emergency-health-data/fr/author/john-doe/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/blog-post-1/"
+                href="/senegal-emergency-health-data/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/blog-post-1/"
+                href="/senegal-emergency-health-data/fr/author/mark-dinn/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/pricing/</loc>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/project/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/blog-post-2/"
+                href="/senegal-emergency-health-data/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/blog-post-2/"
+                href="/senegal-emergency-health-data/fr/project/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/project/rio-furniture-1/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/blog-post-3/"
+                href="/senegal-emergency-health-data/project/rio-furniture-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/blog-post-3/"
+                href="/senegal-emergency-health-data/fr/project/rio-furniture-1/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/project/rio-furniture-2/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/blog-post-4/"
+                href="/senegal-emergency-health-data/project/rio-furniture-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/blog-post-4/"
+                href="/senegal-emergency-health-data/fr/project/rio-furniture-2/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/project/rio-furniture-3/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/blog-post-5/"
+                href="/senegal-emergency-health-data/project/rio-furniture-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/blog-post-5/"
+                href="/senegal-emergency-health-data/fr/project/rio-furniture-3/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/project/rio-furniture-4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/blog-post-6/"
+                href="/senegal-emergency-health-data/project/rio-furniture-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/blog-post-6/"
+                href="/senegal-emergency-health-data/fr/project/rio-furniture-4/"
                 />
   </url>
   
   <url>
-    <loc>/fr/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/project/rio-furniture-5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/blog/"
+                href="/senegal-emergency-health-data/project/rio-furniture-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/blog/"
+                href="/senegal-emergency-health-data/fr/project/rio-furniture-5/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/project/rio-furniture-6/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/legacy-support/"
+                href="/senegal-emergency-health-data/project/rio-furniture-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/legacy-support/"
+                href="/senegal-emergency-health-data/fr/project/rio-furniture-6/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/service/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/mechine/"
+                href="/senegal-emergency-health-data/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/mechine/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/retro/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/retro/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/technology/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/fr/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/john-doe/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/author/mark-dinn/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/pricing/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/rio-furniture-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/project/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/rio-furniture-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/project/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/rio-furniture-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/project/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/rio-furniture-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/project/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/rio-furniture-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/project/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/rio-furniture-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/service/"
+                href="/senegal-emergency-health-data/fr/service/"
                 />
   </url>
   

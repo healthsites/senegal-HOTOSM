@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://senegal-hotosm.netlify.app/"
-title = "HOTOSM - Mapping Senegal Emergency Health Services"
+baseURL = "https://healthsites.github.io/senegal-emergency-health-data"
+title = "Mapping Senegal Emergency Health Services"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -157,7 +157,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Contents published under CC-BY4.0 unless stated otherwise - [Talarify](http://www.talarify.co.za) All Rights Reserved"
+copyright = "Contents published under CC-BY4.0 unless stated otherwise - [healthsites.io](https://healthsites.io/) All Rights Reserved - 2020"
 
 ################################ France Language ########################
 [Languages.fr]

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Our Pricing on HOTOSM - Mapping Senegal Emergency Health Services</title>
-    <link>/pricing/</link>
-    <description>Recent content in Our Pricing on HOTOSM - Mapping Senegal Emergency Health Services</description>
+    <title>Our Pricing on Mapping Senegal Emergency Health Services</title>
+    <link>/senegal-emergency-health-data/pricing/</link>
+    <description>Recent content in Our Pricing on Mapping Senegal Emergency Health Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Contents published under CC-BY4.0 unless stated otherwise - [Talarify](http://www.talarify.co.za) All Rights Reserved</copyright>
+    <copyright>Contents published under CC-BY4.0 unless stated otherwise - [healthsites.io](https://healthsites.io/) All Rights Reserved - 2020</copyright>
     
-	<atom:link href="/pricing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/senegal-emergency-health-data/pricing/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
