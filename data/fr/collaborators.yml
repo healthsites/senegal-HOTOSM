@@ -1,24 +1,24 @@
-############################# Service ###############################
+############################# Collaborators ###############################
 project_lead:
-  title: Project lead
+  title: Chef de projet
   company1: healthsites.io
   link1: https://healthsites.io 
-  person1_img: ../images/teams/mark-herringer.jpg
+  person1_img: ../../images/teams/mark-herringer.jpg
   person1_name: Mark Herringer
   person1_twitter: https://twitter.com/markherringer
-  person1_title: Director
+  person1_title: Réalisateur
 data_collect:
-  title: Data collection
+  title: Collecte de données
   company1: OpenStreetMap Senegal
   company2: Senegal Youthmappers
   link1:
   link2:
-  person1_img: ../images/teams/lamine-ndiaye.jpg
+  person1_img: ../../images/teams/lamine-ndiaye.jpg
   person1_name: Lamine Ndiaye
   person1_twitter: https://twitter.com/lamineyasey
   person1_title: Formateur et Contributeur
 data_analysis:
-  title: Data analysis & visualisation
+  title: Analyse et visualisation des données
   company1: afrimapr
   company2: HeiGIT
   company3: Liverpool School of Tropical Medicine
@@ -28,22 +28,17 @@ data_analysis:
   link3: https://www.lstmed.ac.uk/about/people/dr-andy-south
   link4: http://wwww.talarify.co.za
   link5: https://www.geog.uni-heidelberg.de/gis/eckle.html
-  person1_img: ../images/teams/andy-south.jpg
+  person1_img: ../../images/teams/andy-south.jpg
   person1_name: Dr Andy South
   person1_twitter: https://twitter.com/southmapr
-  person1_title1: Project Lead
-  person1_title2: Research Associate
-  person2_img: ../images/teams/anelda-van-der-walt.jpg
+  person1_title1: Chef de projet
+  person1_title2: Associé de recherche
+  person2_img: ../../images/teams/anelda-van-der-walt.jpg
   person2_name: Anelda van der Walt
   person2_twitter: https://twitter.com/aneldavdw
-  person2_title1: Project Collaborator
-  person2_title2: Director
-  person2_img: ../images/teams/anelda-van-der-walt.jpg
-  person2_name: Anelda van der Walt
-  person2_twitter: https://twitter.com/aneldavdw
-  person2_title1: Project Collaborator
-  person2_title2: Director
-  person3_img: ../images/teams/melanie-eckle.png
+  person2_title1: Collaborateur de projet
+  person2_title2: Réalisatrice
+  person3_img: ../../images/teams/melanie-eckle.png
   person3_name: Melanie Eckle
   person3_twitter: 
-  person3_title1: Research Associate
+  person3_title1: Associé de recherche
