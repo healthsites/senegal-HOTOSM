@@ -11,7 +11,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 # to deploy on Github pages in docs directory from master branch
-publishDir = "docs"
+#publishDir = "docs"
 
 
 #################################### Plugins ##############################
@@ -64,28 +64,6 @@ weight = 2
 name = "Contact"
 URL = "contact"
 weight = 6
-
-
-# footer menu
-[[menu.footer]]
-name = "Colaborators"
-URL = "collaborators"
-weight = 1
-
-[[menu.footer]]
-name = "Blog"
-URL = "blog"
-weight = 2
-
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 3
-
-[[menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 4
 
 
 #################### default parameters ################################
@@ -169,4 +147,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Contenu publié sous CC-BY4.0 sauf indication contraire - [healthsites.io](https://healthsites.io/) Tous droits réservés - 2020"

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS on Mapping Senegal Emergency Health Services</title>
+    <link>/senegal-emergency-health-data/fr/tags/gis/</link>
+    <description>Recent content in GIS on Mapping Senegal Emergency Health Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 08 Jul 2020 11:07:10 +0600</lastBuildDate>
+    
+	<atom:link href="/senegal-emergency-health-data/fr/tags/gis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Obtention de financements pour la cartographie des installations d&#39;urgence au Sénégal</title>
+      <link>/senegal-emergency-health-data/fr/blog/blog-post-1/</link>
+      <pubDate>Wed, 08 Jul 2020 11:07:10 +0600</pubDate>
+      
+      <guid>/senegal-emergency-health-data/fr/blog/blog-post-1/</guid>
+      <description>Applications are now open for HOT’s Rapid Response Microgrant: #COVID19. Microgrants will be awarded to 4-8 OSM communities in Low and Middle Income Countries to enable vulnerable communities to be supported during the pandemic, https://t.</description>
+    </item>
+    
+  </channel>
+</rss>

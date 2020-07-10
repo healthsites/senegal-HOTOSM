@@ -2,102 +2,113 @@
 
 {{ partial "page-title.html" . }}
 
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+
 <section class="collaborator-board">
   <div class="container">
     <div class="row">
-      
     </div>
+    
+    {{ with $data.collaborators.project_lead }}
     <div class="row">
-      <h2>Project lead: <a href="https://healthsites.io/">healthsites.io</a></h2>
+      <h2>{{ .title }}: <a href="{ .link }}">{{ .company1 }}</a></h2>
         <div class="col-md-4 col-sm-4">
           <div class="team-member">
             <div class="team-img">
-              <img src="../images/teams/mark-herringer.jpg" alt="team member" class="img-responsive">
+              <img src="{{ .person1_img }}" alt="{{ .person1_name }}" class="img-responsive">
             </div>
-              <div class="s-link">
-                <a href="https://twitter.com/markherringer"><i class="fa fa-twitter"></i></a>
-              </div>
+            <div class="s-link">
+              <a href="{{ .person1_twitter | absURL}}"><i class="fa fa-twitter"></i></a>
+            </div>
          </div>
          <div class="team-title">
-           <h5>Mark Herringer</h5>
-           <span>Director: <a href="https://healthsites.io">healthsites.io</a></span>
+           <h5>{{ .person1_name }}</h5>
+           <span>{{ .person1_title}}: <a href="{{ .link }}">{{ .company }}</a></span>
          </div>
        </div>
-                     
-        
-     </div>
-     
+   </div>
+
+  {{ end }}
+  
+  {{ with $data.collaborators.data_collect}}
      <div class="row">
-      <h2>Data collection: OpenStreetMap Senegal & Senegal Youthmappers </h2>
+      <h2>{{ .title }}: {{ .company1 }} & {{ .company2 }} </h2>
         <div class="col-md-4 col-sm-4">
           <div class="team-member">
             <div class="team-img">
-              <img src="../images/teams/lamine-ndiaye.jpg" alt="team member" class="img-responsive">
+              <img src="{{ .person1_img }}" alt="{{ .person1_name }}" class="img-responsive">
             </div>
               <div class="s-link">
-                <a href="https://twitter.com/lamineyasey"><i class="fa fa-twitter"></i></a>
+                <a href="{{ .person1_twitter}}"><i class="fa fa-twitter"></i></a>
                 <a href="#"><i class="fa fa-google-plus"></i></a>
               </div>
          </div>
          <div class="team-title">
-           <h5>Lamine Ndiaye</h5>
-           <span>Formateur et Contributeur: OpenStreetMap Senegal</span>
+           <h5>{{ .person1_name }}</h5>
+           <span>{{ .person1_title }}: {{ .company1 }}</span>
          </div>
        </div>
   </div>
   
+  {{ end }}
+  
+  {{ with $data.collaborators.data_analysis}}
+  
    <div class="row">
-      <h2>Data analysis & visualisation: <a href="http://afrimapr.org">afrimapr</a> & <a href="https://heigit.org/">HeiGIT</a> </h2>
+      <h2>{{ .title }}: <a href="{{ .link1 }}">{{ .company1 }}</a> & <a href="{{ .link2 }}">{{ .company2 }}</a> </h2>
         <div class="col-md-4 col-sm-4">
           <div class="team-member">
             <div class="team-img">
-              <img src="../images/teams/andy-south.jpg" alt="team member" class="img-responsive">
+              <img src="{{ .person1_img }}" alt="{{ .person1_name }}" class="img-responsive">
             </div>
               <div class="s-link">
-                <a href="https://twitter.com/southmapr"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-google-plus"></i></a>
+                <a href="{{ .person1_twitter }}"><i class="fa fa-twitter"></i></a>
               </div>
          </div>
          <div class="team-title">
-           <h5>Dr Andy South</h5>
-           <span>Project Lead: <a href="http://afrimapr.org">afrimapr</a></span><br>
-           <span>Research Associate: <a href="https://www.lstmed.ac.uk/about/people/dr-andy-south">Liverpool School of Tropical Medicine</a></span>
+           <h5>{{ .person1_name }}</h5>
+           <span>{{ .person1_title1 }}: <a href="{{ .link1 }}">{{ .company1 }}</a></span><br>
+           <span>{{ .person1_title2 }}: <a href="{{ .link3 }}">{{ .company3 }}</a></span>
          </div>
          </div>
          
-                 <div class="col-md-4 col-sm-4">
+         <div class="col-md-4 col-sm-4">
           <div class="team-member">
             <div class="team-img">
-              <img src="../images/teams/anelda-van-der-walt.jpg" alt="team member" class="img-responsive">
+              <img src="{{ .person2_img }}" alt="{{ .person2_name }}" class="img-responsive">
             </div>
               <div class="s-link">
-                <a href="https://twitter.com/aneldavdw"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-google-plus"></i></a>
+                <a href="{{ .person2_twitter }}"><i class="fa fa-twitter"></i></a>
               </div>
          </div>
          <div class="team-title">
-           <h5>Anelda van der Walt</h5>
-           <span>Project Collaborator: <a href="http://afrimapr.org">afrimapr</a></span><br>
-           <span>Director: <a href="http://www.talarify.co.za">Talarify</a></span>
+           <h5>{{ .person2_name }}</h5>
+           <span>{{ .person2_title1 }}: <a href="{{ .link1 }}">{{ .company1 }}</a></span><br>
+           <span>{{ .person2_title2 }}: <a href="{{ .link4 }}">{{ .company4 }}</a></span>
          </div>
          </div>
          <div class="col-md-4 col-sm-4">
           <div class="team-member">
             <div class="team-img">
-              <img src="../images/teams/melanie-eckle.png" alt="team member" class="img-responsive">
+              <img src="{{ .person3_img }}" alt="{{ .person3_name }}" class="img-responsive">
             </div>
               <div class="s-link">
                 <a href="#"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-google-plus"></i></a>
               </div>
          </div>
          <div class="team-title">
-           <h5>Melanie Eckle</h5>
-           <span>Research Associate: <a href="https://www.geog.uni-heidelberg.de/gis/eckle.html">HeiGIT</a></span>
+           <h5>{{ .person3_name }}</h5>
+           <span>{{ .person3_title }}: <a href="{{ .link5 }}">{{ .compan2 }}</a></span>
          </div>
 
+    </div>
   </div>
-</div>
+  
+  {{ end }}
+  
+  </div>
 </section>
+
 
 {{ end }}

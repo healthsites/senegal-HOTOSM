@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaboratrices on Mapping Senegal Emergency Health Services</title>
+    <link>/senegal-emergency-health-data/fr/collaborators/</link>
+    <description>Recent content in Collaboratrices on Mapping Senegal Emergency Health Services</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Contenu publié sous CC-BY4.0 sauf indication contraire - [healthsites.io](https://healthsites.io/) Tous droits réservés - 2020</copyright>
+    
+	<atom:link href="/senegal-emergency-health-data/fr/collaborators/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

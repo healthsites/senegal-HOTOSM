@@ -1,0 +1,46 @@
+############################# Service ###############################
+project:
+  enable : true
+  title : "Project Plan"
+  description : "The project has several collaborators who will each play a role"
+  service_item:
+    # service item loop
+    - icon : ion-ios-telephone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Contact health facilities
+      content: "Senegal OpenStreetMap mappers will contact hospitals via phone to confirm emergency services available"
+
+    # service item loop
+    - icon : ion-document-text #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Upload data
+      content: "Health facility data will be uploaded to OpenStreetMap by the mappers"
+
+    # service item loop
+    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Project management
+      content: "healthsites.io will be responsible for project management ensuring all stakeholders are kept informed of progress and challenges"
+
+    # service item loop
+    - icon : ion-stats-bars #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Visualise progress
+      content: "The afrimapr team will be responsible for real-time visualisation of data collection progress via re-usable, opensource R code"
+
+    # service item loop
+    - icon : ion-map #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Open data comparison
+      content: "The afrimapr team will provide data analysis and comparison with other open health facility data"
+
+    # service item loop
+    - icon : ion-unlocked #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Open licensing
+      content: "All materials, including blog posts, images, code, and data created in this project will be released under open licenses"
+
+    # service item loop
+    - icon : ion-clock #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Historical comparison
+      content: "The HeiGIT team will facilitate historical comparisons with OSM data via their tool - OHSome"
+      
+    # service item loop
+    - icon : ion-compose #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Share experience
+      content: "The team will provide updates and lessons learned via blog posts and a project report"
+
