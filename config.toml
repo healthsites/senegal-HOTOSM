@@ -50,17 +50,17 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ############################## navigation ###############################
 
 # main menu
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Collaborators"
 URL = "collaborators"
 weight = 1
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Blog"
 URL = "blog"
 weight = 2
 
-[[languages.en.menu.main]]
+[[menu.main]]
 name = "Contact"
 URL = "contact"
 weight = 6
