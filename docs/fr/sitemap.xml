@@ -3,348 +3,145 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/faq/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/blog/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/faq/"
+                href="/senegal-emergency-health-data/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/faq/"
+                href="/senegal-emergency-health-data/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/</loc>
-    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/categories/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/"
+                href="/senegal-emergency-health-data/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/"
+                href="/senegal-emergency-health-data/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/ai/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/android/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/categories/artificial-intelligence/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/categories/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/categories/funding/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/categories/"
+                href="/senegal-emergency-health-data/categories/funding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/categories/"
+                href="/senegal-emergency-health-data/fr/categories/funding/"
                 />
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/tags/gis/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/blog/blog-post-1/"
+                href="/senegal-emergency-health-data/tags/gis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-1/"
+                href="/senegal-emergency-health-data/fr/tags/gis/"
                 />
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/blog/"
+                href="/senegal-emergency-health-data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/blog/"
+                href="/senegal-emergency-health-data/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/tags/microgrant-hotosm/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/senegal-emergency-health-data/fr/blog/blog-post-1/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/tags/"
+                href="/senegal-emergency-health-data/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/tags/"
+                href="/senegal-emergency-health-data/fr/blog/blog-post-1/"
                 />
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/author/</loc>
+    <loc>/senegal-emergency-health-data/fr/tags/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/author/"
+                href="/senegal-emergency-health-data/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/author/"
+                href="/senegal-emergency-health-data/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/contact/</loc>
+    <loc>/senegal-emergency-health-data/fr/tags/%C3%A9tablissements-de-sant%C3%A9/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/senegal-emergency-health-data/fr/collaborators/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/contact/"
+                href="/senegal-emergency-health-data/collaborators/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/contact/"
+                href="/senegal-emergency-health-data/fr/collaborators/"
                 />
   </url>
   
   <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/author/john-doe/</loc>
+    <loc>/senegal-emergency-health-data/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/author/john-doe/"
+                href="/senegal-emergency-health-data/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/author/john-doe/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/author/mark-dinn/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/pricing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-4/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-5/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/project/rio-furniture-6/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://healthsites.github.io/senegal-emergency-health-data/fr/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://healthsites.github.io/senegal-emergency-health-data/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://healthsites.github.io/senegal-emergency-health-data/fr/service/"
+                href="/senegal-emergency-health-data/fr/contact/"
                 />
   </url>
   

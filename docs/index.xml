@@ -2,95 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mapping Senegal Emergency Health Services</title>
-    <link>https://healthsites.github.io/senegal-emergency-health-data/</link>
+    <link>/senegal-emergency-health-data/</link>
     <description>Recent content on Mapping Senegal Emergency Health Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Contents published under CC-BY4.0 unless stated otherwise - [healthsites.io](https://healthsites.io/) All Rights Reserved - 2020</copyright>
     <lastBuildDate>Wed, 08 Jul 2020 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="https://healthsites.github.io/senegal-emergency-health-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/senegal-emergency-health-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Obtaining funding for mapping emergency facilities in Senegal</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/blog/blog-post-1/</link>
+      <link>/senegal-emergency-health-data/blog/blog-post-1/</link>
       <pubDate>Wed, 08 Jul 2020 11:07:10 +0600</pubDate>
       
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/blog/blog-post-1/</guid>
+      <guid>/senegal-emergency-health-data/blog/blog-post-1/</guid>
       <description>Applications are now open for HOT’s Rapid Response Microgrant: #COVID19. Microgrants will be awarded to 4-8 OSM communities in Low and Middle Income Countries to enable vulnerable communities to be supported during the pandemic, https://t.</description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-1/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-2/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-3/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-4/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-5/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/project/rio-furniture-6/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
     </item>
     
   </channel>

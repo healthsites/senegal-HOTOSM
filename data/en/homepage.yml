@@ -40,16 +40,16 @@ portfolio:
 
 
 ############################# Service ############################
-service:
+project:
   enable : true
-  # service content comes from "data/*/service.yml" file
+  # project content comes from "data/*/project.yml" file
 
 
 ############################ call to action ###########################
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We are grateful for funding from the Humanitarian Openstreetmap Team"
+  title : "We are grateful for funding via the Microgrants from Humanitarian OpenStreetMap"
   content : "HOT is an international team dedicated to humanitarian action and community development through open mapping."
   button:
     enable : true
