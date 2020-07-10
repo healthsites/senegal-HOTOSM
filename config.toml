@@ -50,17 +50,34 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ############################## navigation ###############################
 
 # main menu
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Collaborators"
 URL = "collaborators"
 weight = 1
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Blog"
 URL = "blog"
 weight = 2
 
-[[menu.main]]
+[[languages.en.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+# French menu
+
+[[languages.fr.menu.main]]
+name = "Collaboratrices"
+URL = "collaborators"
+weight = 1
+
+[[languages.fr.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 2
+
+[[languages.fr.menu.main]]
 name = "Contact"
 URL = "contact"
 weight = 6

@@ -1,12 +1,12 @@
 ---
 author: Anelda van der Walt
-bg_image: images/blog/post1.jpg
+bg_image: images/blog-bg.jpg
 categories:
 - Funding 
 date: "2020-07-08T11:07:10+06:00"
 description: Microgrant HOTOSM décerné
 draft: false
-image: images/blog/post1.jpg
+image: images/blog/post1.png
 tags:
 - Microgrant HOTOSM
 - GIS
