@@ -4,7 +4,6 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-
 <section class="collaborator-board">
   <div class="container">
     <div class="row">
@@ -18,15 +17,16 @@
         <div class="col-md-4 col-sm-4">
           <div class="team-member">
             <div class="team-img">
-              <img src="{{ .person_img }}" alt="{{ .person_name }}" class="img-responsive">
+              {{ if .person_twitter }}
+              <a href="{{ .person_twitter }}"> {{ end }} <img src="{{ .person_img }}" alt="{{ .person_name }}" class="img-responsive"></a>
             </div>
             <div class="s-link">
               <a href="{{ .person_twitter | absURL}}"><i class="fa fa-twitter"></i></a>
             </div>
          </div>
          <div class="team-title">
-           <h5>{{ .person_name }}</h5>
-           <span>{{ .person_title1}}: <a href="{{ .link1 }}">{{ .company1 }}</a></span>
+           <h5>{{ if .person_twitter }}<a href="{{ .person_twitter }}">{{ end }} {{ .person_name }}</a></h5>
+           <span>{{ if .person_title1 }}{{ .person_title1}}: {{ end }}<a href="{{ .link1 }}">{{ .company1 }}</a></span>
            <br>
            {{ if .multiple_affiliations }}
            <span>{{ .person_title2}}: <a href="{{ .link2 }}">{{ .company2 }}</a></span>
