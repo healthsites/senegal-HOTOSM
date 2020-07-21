@@ -118,6 +118,26 @@ collaborator:
     link1: https://www.geomatica-services.com
     person_img: ../images/teams/peinda-kane.jpg
     person_name: Peinda Kane 
+    person_twitter: https://twitter.com/kanePeinda
+    person_linkedin: https://www.linkedin.com/in/penda-kane-27199a1b2
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../images/teams/placeholder.png
+    person_name: Marietou Tendeng 
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin: https://www.linkedin.com/in/fall-mouhamadou-moustapha-168892195
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../images/teams/placeholder.png
+    person_name: Marietou Tendeng 
     person_twitter: https://twitter.com/geomatica
     person_linkedin: https://www.linkedin.com/in/fall-mouhamadou-moustapha-168892195
     person_title1: 
