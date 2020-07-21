@@ -17,9 +17,60 @@ collaborator:
     link1:
     person_img: ../images/teams/lamine-ndiaye.jpg
     person_name: Lamine Ndiaye
-    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_twitter: https://twitter.com/lamineyasey
+    person_linkedin: https://www.linkedin.com/in/mohamet-lamine-ndiaye-286706aa/
     person_title1: Trainer & Contributor
     
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../images/teams/placeholder.png
+    person_name: Chérif Assane Diallo
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_linkedin: 
+    person_title1: Contributor
+    
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../images/teams/amadou-diallo.jpg
+    person_name: Alpha Amadou Diallo
+    person_twitter: https://twitter.com/cdialloalpha
+    person_linkedin: https://www.linkedin.com/in/alpha-amadou-diallo-b40a27175/
+    person_title1: Contributor
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../images/teams/ndeye-khady.jpg
+    person_name: Ndeye Khady
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_linkedin: https://www.linkedin.com/in/ndeye-khady-ndoye-899559121
+    person_title1: Contributor
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../images/teams/placeholder.png
+    person_name: Rokhaya Seck
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_linkedin: 
+    person_title1: Contributor
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../images/teams/placeholder.png
+    person_name: Bougouma Seck
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_linkedin: 
+    person_title1: Contributor
+        
     # collaborators item loop
   - title: Data collection
     multiple_affiliations: false
@@ -28,7 +79,49 @@ collaborator:
     person_img: ../images/teams/labaly-toure.jpg
     person_name: Dr Labaly Toure
     person_twitter: https://twitter.com/geomatica
+    person_linkedin: 
     person_title1: Director
+    
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../images/teams/mor-cisse.jpg
+    person_name: Mor Cisse
+    person_twitter: https://twitter.com/RioCisse
+    person_linkedin: 
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../images/teams/placeholder.png
+    person_name: Cheikh Ahmadou Bamba Casset 
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin: https://www.linkedin.com/in/cheikhouna-bamba-casset-8a59b8169
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../images/teams/placeholder.png
+    person_name: Mouhamadou Moustapha Fall 
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin: https://www.linkedin.com/in/fall-mouhamadou-moustapha-168892195
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../images/teams/peinda-kane.jpg
+    person_name: Peinda Kane 
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin: https://www.linkedin.com/in/fall-mouhamadou-moustapha-168892195
+    person_title1: 
+
 
     # collaborators item loop
   - title: Data analysis & visualisation
