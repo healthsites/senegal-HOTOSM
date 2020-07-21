@@ -1,49 +1,67 @@
-############################# Service ###############################
-project_lead:
-  title: Project lead
-  company1: healthsites.io
-  link1: https://healthsites.io 
-  person1_img: ../images/teams/mark-herringer.jpg
-  person1_name: Mark Herringer
-  person1_twitter: https://twitter.com/markherringer
-  person1_title: Director
-data_collect:
-  title: Data collection
-  company1: OpenStreetMap Senegal
-  company2: Senegal Youthmappers
-  link1:
-  link2:
-  person1_img: ../images/teams/lamine-ndiaye.jpg
-  person1_name: Lamine Ndiaye
-  person1_twitter: https://twitter.com/lamineyasey
-  person1_title: Formateur et Contributeur
-data_analysis:
-  title: Data analysis & visualisation
-  company1: afrimapr
-  company2: HeiGIT
-  company3: Liverpool School of Tropical Medicine
-  company4: Talarify
-  link1: http://afrimapr.org
-  link2: https://heigit.org/
-  link3: https://www.lstmed.ac.uk/about/people/dr-andy-south
-  link4: http://wwww.talarify.co.za
-  link5: https://www.geog.uni-heidelberg.de/gis/eckle.html
-  person1_img: ../images/teams/andy-south.jpg
-  person1_name: Dr Andy South
-  person1_twitter: https://twitter.com/southmapr
-  person1_title1: Project Lead
-  person1_title2: Research Associate
-  person2_img: ../images/teams/anelda-van-der-walt.jpg
-  person2_name: Anelda van der Walt
-  person2_twitter: https://twitter.com/aneldavdw
-  person2_title1: Project Collaborator
-  person2_title2: Director
-  person2_img: ../images/teams/anelda-van-der-walt.jpg
-  person2_name: Anelda van der Walt
-  person2_twitter: https://twitter.com/aneldavdw
-  person2_title1: Project Collaborator
-  person2_title2: Director
-  person3_img: ../images/teams/melanie-eckle.png
-  person3_name: Melanie Eckle
-  person3_twitter: 
-  person3_title1: Research Associate
+############################# Collaborator ###############################
+collaborator:
+    # collaborators item loop
+  - title: Project lead
+    multiple_affiliations: false
+    company1: healthsites.io
+    link1: https://healthsites.io 
+    person_img: ../images/teams/mark-herringer.jpg
+    person_name: Mark Herringer
+    person_twitter: https://twitter.com/markherringer
+    person_title1: Director
+    
+    # collaborators item loop
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../images/teams/lamine-ndiaye.jpg
+    person_name: Lamine Ndiaye
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_title1: Trainer & Contributor
+    
+    # collaborators item loop
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../images/teams/labaly-toure.jpg
+    person_name: Dr Labaly Toure
+    person_twitter: https://twitter.com/geomatica
+    person_title1: Director
+
+    # collaborators item loop
+  - title: Data analysis & visualisation
+    multiple_affiliations: true
+    company1: afrimapr
+    company2: Liverpool School of Tropical Medicine
+    link1: http://afrimapr.org
+    link2: https://www.lstmed.ac.uk/about/people/dr-andy-south
+    person_img: ../images/teams/andy-south.jpg
+    person_name: Dr Andy South
+    person_twitter: https://twitter.com/southmapr
+    person_title1: Project Lead
+    person_title2: Research Associate
+
+    # collaborators item loop
+  - title: Data analysis & visualisation
+    multiple_affiliations: true
+    company1: afrimapr
+    company2: Talarify
+    link1: http://afrimapr.org
+    link2: http://www.talarify.co.za
+    person_img: ../images/teams/anelda-van-der-walt.jpg
+    person_name: Anelda van der Walt
+    person_twitter: https://twitter.com/aneldavdw
+    person_title1: Project Collaborator
+    person_title2: Director
+    
+    # collaborators item loop
+  - title: Data analysis & visualisation
+    multiple_affiliations: false
+    company1: HeiGIT
+    link1: https://www.geog.uni-heidelberg.de/gis/eckle.html
+    person_img: ../images/teams/melanie-eckle.png
+    person_name: Melanie Eckle
+    person_twitter: 
+    person_title1: Research Associate
