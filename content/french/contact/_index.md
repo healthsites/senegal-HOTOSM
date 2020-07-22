@@ -1,6 +1,6 @@
 ---
-bg_image: images/featue-bg.jpg
-description: this is meta description
+bg_image: images/contact-img.jpg
+description: Contactez-nous pour en savoir plus sur le projet ou demander un projet similaire
 draft: false
-title: Drop Us A Note
+title: Envoyez-nous une note
 ---
