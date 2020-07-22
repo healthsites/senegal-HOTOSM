@@ -4,9 +4,9 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "Cartographie des services de santé d'urgence au Sénégal"
-  content : "Viser à rendre rapidement disponibles des informations pertinentes et précises sur les établissements de santé"
+  content : "Définition de la portée et des capacités de prestation de services de l'hôpital d'urgence"
   button:
-    enable : true
+    enable : false
     label : "Lire la proposition de projet"
     link : "project"
 
@@ -14,7 +14,7 @@ banner:
 about:
   enable : true
   title : "À PROPOS DU PROJET"
-  description : "En juillet 2020, OpenStreetmap Sénégal cartographiera tous les hôpitaux publics du Sénégal et mettra à jour les services de santé d'urgence disponibles. Cela fait partie d'une campagne plus large de healthsites.io pour définir les services de santé d'urgence dans toute l'Afrique."
+  description : "En juillet 2020, OpenStreetMap Sénégal cartographiera tous les hôpitaux publics du Sénégal et mettra à jour les services de santé d'urgence disponibles. Cela fait partie d'une campagne plus large de healthsites.io pour définir les services de santé d'urgence dans toute l'Afrique."
   content : "Nous avons actuellement des informations de base pour un nombre limité d'établissements de santé sénégalais dans OpenStreetMap. Nous établirons des blocs de construction que d'autres pourront utiliser et faire avancer. Nous comparerons les données ouvertes des 197 hôpitaux d'OpenStreetMap avec celles de l'ensemble de données ouvertes développé par le programme de recherche KEMRI-Wellcome en 2018 et actuellement hébergé par l'OMS. Avec le soutien de [Afrimapr] (http://afrimapr.org), nous établirons des blocs de construction R pour permettre une analyse personnalisée dans le pays à l'aide de packages open source. Nous suivrons quotidiennement les progrès en termes de saisie de données sur les établissements de santé supplémentaires dans OSM. Pour cela, nous utiliserons des outils tels que l'application Ohsome développée par HeiGIT et afrihealthsites développé par afrimapr."
   image : "images/wrapper-img.png"
 
@@ -62,11 +62,7 @@ funfacts:
   title : "Le projet en chiffres"
   description : "Ces chiffres seront mis à jour quotidiennement pour la durée du projet afin de représenter le nombre de points de données qui ont été ajoutés à healthsites.io"
   funfact_item:
-    # funfacts item loop
-    - icon : "ion-chatboxes" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Appels téléphoniques effectués"
-      count : "0"
-      
+
     # funfacts item loop
     - icon : "ion-medkit" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Hôpitaux contactés"
@@ -76,8 +72,4 @@ funfacts:
     - icon : "ion-information-circled" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Points de données ajoutés"
       count : "0"
-      
-    # funfacts item loop
-    - icon : "ion-map" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Nouveaux emplacements ajoutés"
-      count : "0"
+

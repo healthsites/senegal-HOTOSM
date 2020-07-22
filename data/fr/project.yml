@@ -1,26 +1,18 @@
 ############################# Service ###############################
 project:
   enable : true
+  title : "plan de projet"
+  description : "Le projet compte plusieurs collaborateurs qui joueront chacun un rôle"
   service_item:
     # service item loop
     - icon : ion-ios-telephone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Contacter les établissements de santé
+      name: Données sanitaires d'urgence
       content: "Les cartographes OpenStreetMap du Sénégal contacteront les hôpitaux par téléphone pour confirmer les services d'urgence disponibles"
 
     # service item loop
     - icon : ion-document-text #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Télécharger des données
+      name: OpenStreetMap
       content: "Les données des établissements de santé seront téléchargées sur OpenStreetMap par les cartographes"
-
-    # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Gestion de projet
-      content: "healthsites.io sera responsable de la gestion du projet en veillant à ce que toutes les parties prenantes soient tenues informées des progrès et des défis"
-
-    # service item loop
-    - icon : ion-stats-bars #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Visualisez les progrès
-      content: "L'équipe afrimapr sera responsable de la visualisation en temps réel des progrès de la collecte de données via un code R open source réutilisable. Des liens seront fournis"
 
     # service item loop
     - icon : ion-map #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/

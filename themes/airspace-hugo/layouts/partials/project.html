@@ -10,8 +10,8 @@
     </div>
     <div class="row">
       {{ range .service_item }}
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
+      <div class="col-md-4 col-sm-6 col-xs-12">
+           <div class="service-item">
           <i class="icon {{ .icon }}"></i>
           <h4>{{ .name | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>

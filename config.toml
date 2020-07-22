@@ -92,7 +92,7 @@ description = "In July 2020 OpenStreetmap Senegal will map all the public hospit
 author = "Talarify"
 # Contact Information
 mobile = ""
-email = ""
+email = "sharehealthdata@healthsites.io"
 location = "Global collaboration"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
@@ -114,7 +114,7 @@ link = "contact"
 
 # google map
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
