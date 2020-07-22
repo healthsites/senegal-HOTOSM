@@ -4,7 +4,8 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="collaborator-board">
+
+<section class="team">
   <div class="container">
     <div class="row">
       <br>
@@ -12,32 +13,43 @@
     </div>
 
 
-    
-    {{ range $data.collaborators.collaborator }}
-        <div class="col-md-4 col-sm-4">
-          <div class="team-member">
-            <div class="team-img">
-              {{ if .person_twitter }}
-              <a href="{{ .person_twitter }}"> {{ end }} <img src="{{ .person_img }}" alt="{{ .person_name }}" class="img-responsive"></a>
-            </div>
-            <div class="s-link">
-              <a href="{{ .person_twitter | absURL}}"><i class="fa fa-twitter"></i></a>
-            </div>
-         </div>
-         <div class="team-title">
-           <h5>{{ if .person_twitter }}<a href="{{ .person_twitter }}">{{ end }} {{ .person_name }}</a></h5>
-           <span>{{ if .person_title1 }}{{ .person_title1}}: {{ end }}<a href="{{ .link1 }}">{{ .company1 }}</a></span>
-           <br>
-           {{ if .multiple_affiliations }}
-           <span>{{ .person_title2}}: <a href="{{ .link2 }}">{{ .company2 }}</a></span>
-           {{ end }}
-         </div>
-       </div>
+    		          
 
-  {{ end }}
-  
-  </div>
+    		    		
+    	<div class="row text-center">
+{{ range $data.collaborators.collaborator }}        
+		
+    		    <div class="col-md-4 col-sm-4">
+	
+    				   
+    				   	<img class="img-rounded" alt="{{ .person_name }} photo" src="{{ .person_img }}" > 
+    				   	
+    				   	<div class="team-member">
+                        
+    				   	<h4>{{ .person_name }}</h4>
+    				   	
+    				   	<p>{{ if .person_title1 }}{{ .person_title1 }}: {{ end }} {{ .company1 }}</p>
+                        
+    				   	</div>
+    				   	
+    				   	<p class="social">
+    				   	  {{ if .person_twitter }}
+    				   		<a href="{{ .person_twitter }}"><span class="ion-social-twitter"></span></a>
+    				   		{{ end }}
+    				   		{{ if .person_linkedin }}
+    				   		<a href="{{ .person_linkedin }}"><span class="ion-social-linkedin"></span></a>
+    				   		{{ end }}
+    				   	</p>
+
+    		 </div> <!--col-lg-4 -->
+   		 
+    		 {{ end }}
+      </div>  <!-- row text-center -->
+    			
+
+    		 </div>    
+
 </section>
-
-
+    				
 {{ end }}
+

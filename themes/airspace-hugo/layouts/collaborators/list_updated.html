@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="collaborator-board">
+  <div class="container">
+    <div class="row">
+      <br>
+      <br>
+    </div>
+
+
+    
+    {{ range $data.collaborators.collaborator }}
+        <div class="col-md-4 col-sm-4">
+          <div class="team-member">
+            <div class="team-img">
+              {{ if .person_twitter }}
+              <a href="{{ .person_twitter }}"> {{ end }} <img src="{{ .person_img }}" alt="{{ .person_name }}" class="img-responsive"></a>
+            </div>
+
+         </div>
+         <div class="team-title">
+           <h5>{{ if .person_twitter }}<a href="{{ .person_twitter }}">{{ end }} {{ .person_name }}</a></h5>
+           <span>{{ if .person_title1 }}{{ .person_title1}}: {{ end }}<a href="{{ .link1 }}">{{ .company1 }}</a></span>
+           <br>
+           {{ if .multiple_affiliations }}
+           <span>{{ .person_title2}}: <a href="{{ .link2 }}">{{ .company2 }}</a></span>
+           {{ end }}
+
+         </div>
+
+       </div>
+
+  {{ end }}
+  
+  </div>
+</section>
+
+
+{{ end }}

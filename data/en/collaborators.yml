@@ -8,6 +8,7 @@ collaborator:
     person_img: ../images/teams/mark-herringer.jpg
     person_name: Mark Herringer
     person_twitter: https://twitter.com/markherringer
+    person_linkedin: 
     person_title1: Director
     
     # collaborators item loop
@@ -139,7 +140,7 @@ collaborator:
     person_img: ../images/teams/placeholder.png
     person_name: Marietou Tendeng 
     person_twitter: https://twitter.com/geomatica
-    person_linkedin: https://www.linkedin.com/in/fall-mouhamadou-moustapha-168892195
+    person_linkedin:
     person_title1: 
 
 
@@ -153,6 +154,7 @@ collaborator:
     person_img: ../images/teams/andy-south.jpg
     person_name: Dr Andy South
     person_twitter: https://twitter.com/southmapr
+    person_linkedin: 
     person_title1: Project Lead
     person_title2: Research Associate
 
@@ -166,6 +168,7 @@ collaborator:
     person_img: ../images/teams/anelda-van-der-walt.jpg
     person_name: Anelda van der Walt
     person_twitter: https://twitter.com/aneldavdw
+    person_linkedin: https://www.linkedin.com/in/aneldavanderwalt
     person_title1: Project Collaborator
     person_title2: Director
     
@@ -177,4 +180,5 @@ collaborator:
     person_img: ../images/teams/melanie-eckle.png
     person_name: Melanie Eckle
     person_twitter: 
+    person_linkedin:
     person_title1: Research Associate
