@@ -28,3 +28,5 @@
   translation: Mots clefs
 - id: categories
   translation: Catégories
+- id: contact_person
+  translation: Contact

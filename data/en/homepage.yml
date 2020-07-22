@@ -4,9 +4,9 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "Mapping Emergency Health Services in Senegal"
-  content : "Aiming to make relevant and accurate health facility information rapidly available "
+  content : "Defining the scope and service provision capacities of Emergency hospital "
   button:
-    enable : true
+    enable : false
     label : "Read the project proposal"
     link : "project"
 
@@ -14,8 +14,8 @@ banner:
 about:
   enable : true
   title : "ABOUT THE PROJECT"
-  description : "In July 2020 OpenStreetmap Senegal will map all the public hospitals in Senegal and update the emergency health services available. This is part of a wider campaign of healthsites.io to define emergency health services throughout Africa.  "
-  content : "We currently have baseline information for a limited number of Senegalese health care facilities in OpenStreetMap. We will establish building blocks for others to use and take forward. We will compare the open data from the 197 hospitals in OpenStreetMap with that of the open dataset developed by the KEMRI-Wellcome Research Programme in 2018 and currently hosted by WHO. With support from [Afrimapr](http://afrimapr.org) we will establish R building blocks to enable customised in-country analysis using open source packages. We will track progress in terms of data capturing of additional health facilities in OSM on a daily basis. For this we will use tools such as the Ohsome application developed by HeiGIT and afrihealthsites developed by afrimapr."
+  description : "In July 2020, OpenStreetMap Senegal will map all public hospitals in Senegal and update the emergency health services available. It is part of a larger campaign from healthsites.io to define emergency health services across Africa."
+  content : "We currently have basic information for a limited number of Senegalese health facilities in OpenStreetMap. We will establish building blocks that others can use and advance. We will compare the open data from 197 OpenStreetMap hospitals with that from the open data set developed by the KEMRI-Wellcome research program in 2018 and currently hosted by WHO. With the support of [Afrimapr] ( http://afrimapr.org), we will establish R building blocks to allow personalized analysis in the country using open source packages. We will be monitoring progress in terms of entering additional health facility data into OSM daily. For this, we will use tools such as the Ohsome application developed by HeiGIT and afrihealthsites developed by afrimapr."
   image : "images/wrapper-img.png"
 
 
@@ -63,11 +63,6 @@ funfacts:
   description : "These numbers will be updated every day for the duration of the project to represent the number of data points that has been added to healthsites.io"
   funfact_item:
     # funfacts item loop
-    - icon : "ion-chatboxes" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Phone calls made"
-      count : "0"
-      
-    # funfacts item loop
     - icon : "ion-medkit" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Hospitals contacted"
       count : "0"
@@ -77,7 +72,4 @@ funfacts:
       name : "Data points added"
       count : "0"
       
-    # funfacts item loop
-    - icon : "ion-map" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "New locations added"
-      count : "0"
+
