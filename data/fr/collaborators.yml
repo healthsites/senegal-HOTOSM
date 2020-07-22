@@ -1,44 +1,184 @@
-############################# Collaborators ###############################
-project_lead:
-  title: Chef de projet
-  company1: healthsites.io
-  link1: https://healthsites.io 
-  person1_img: ../../images/teams/mark-herringer.jpg
-  person1_name: Mark Herringer
-  person1_twitter: https://twitter.com/markherringer
-  person1_title: Réalisateur
-data_collect:
-  title: Collecte de données
-  company1: OpenStreetMap Senegal
-  company2: Senegal Youthmappers
-  link1:
-  link2:
-  person1_img: ../../images/teams/lamine-ndiaye.jpg
-  person1_name: Lamine Ndiaye
-  person1_twitter: https://twitter.com/lamineyasey
-  person1_title: Formateur et Contributeur
-data_analysis:
-  title: Analyse et visualisation des données
-  company1: afrimapr
-  company2: HeiGIT
-  company3: Liverpool School of Tropical Medicine
-  company4: Talarify
-  link1: http://afrimapr.org
-  link2: https://heigit.org/
-  link3: https://www.lstmed.ac.uk/about/people/dr-andy-south
-  link4: http://wwww.talarify.co.za
-  link5: https://www.geog.uni-heidelberg.de/gis/eckle.html
-  person1_img: ../../images/teams/andy-south.jpg
-  person1_name: Dr Andy South
-  person1_twitter: https://twitter.com/southmapr
-  person1_title1: Chef de projet
-  person1_title2: Associé de recherche
-  person2_img: ../../images/teams/anelda-van-der-walt.jpg
-  person2_name: Anelda van der Walt
-  person2_twitter: https://twitter.com/aneldavdw
-  person2_title1: Collaborateur de projet
-  person2_title2: Réalisatrice
-  person3_img: ../../images/teams/melanie-eckle.png
-  person3_name: Melanie Eckle
-  person3_twitter: 
-  person3_title1: Associé de recherche
+############################# Collaborator ###############################
+collaborator:
+    # collaborators item loop
+  - title: Project lead
+    multiple_affiliations: false
+    company1: healthsites.io
+    link1: https://healthsites.io 
+    person_img: ../../images/teams/mark-herringer.jpg
+    person_name: Mark Herringer
+    person_twitter: https://twitter.com/markherringer
+    person_linkedin: 
+    person_title1: Director
+    
+    # collaborators item loop
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../../images/teams/lamine-ndiaye.jpg
+    person_name: Lamine Ndiaye
+    person_twitter: https://twitter.com/lamineyasey
+    person_linkedin: https://www.linkedin.com/in/mohamet-lamine-ndiaye-286706aa/
+    person_title1: Trainer & Contributor
+    
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../../images/teams/placeholder.png
+    person_name: Chérif Assane Diallo
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_linkedin: 
+    person_title1: Contributor
+    
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../../images/teams/amadou-diallo.jpg
+    person_name: Alpha Amadou Diallo
+    person_twitter: https://twitter.com/cdialloalpha
+    person_linkedin: https://www.linkedin.com/in/alpha-amadou-diallo-b40a27175/
+    person_title1: Contributor
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../../images/teams/ndeye-khady.jpg
+    person_name: Ndeye Khady
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_linkedin: https://www.linkedin.com/in/ndeye-khady-ndoye-899559121
+    person_title1: Contributor
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../../images/teams/placeholder.png
+    person_name: Rokhaya Seck
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_linkedin: 
+    person_title1: Contributor
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: OpenStreetMap Senegal
+    link1:
+    person_img: ../../images/teams/placeholder.png
+    person_name: Bougouma Seck
+    person_twitter: https://twitter.com/OpenStreetMapSn
+    person_linkedin: 
+    person_title1: Contributor
+        
+    # collaborators item loop
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../../images/teams/labaly-toure.jpg
+    person_name: Dr Labaly Toure
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin: 
+    person_title1: Director
+    
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../../images/teams/mor-cisse.jpg
+    person_name: Mor Cisse
+    person_twitter: https://twitter.com/RioCisse
+    person_linkedin: 
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../../images/teams/placeholder.png
+    person_name: Cheikh Ahmadou Bamba Casset 
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin: https://www.linkedin.com/in/cheikhouna-bamba-casset-8a59b8169
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../../images/teams/placeholder.png
+    person_name: Mouhamadou Moustapha Fall 
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin: https://www.linkedin.com/in/fall-mouhamadou-moustapha-168892195
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../../images/teams/peinda-kane.jpg
+    person_name: Peinda Kane 
+    person_twitter: https://twitter.com/kanePeinda
+    person_linkedin: https://www.linkedin.com/in/penda-kane-27199a1b2
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../../images/teams/placeholder.png
+    person_name: Marietou Tendeng 
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin: https://www.linkedin.com/in/fall-mouhamadou-moustapha-168892195
+    person_title1: 
+
+  - title: Data collection
+    multiple_affiliations: false
+    company1: Geomatica Services
+    link1: https://www.geomatica-services.com
+    person_img: ../../images/teams/placeholder.png
+    person_name: Marietou Tendeng 
+    person_twitter: https://twitter.com/geomatica
+    person_linkedin:
+    person_title1: 
+
+
+    # collaborators item loop
+  - title: Data analysis & visualisation
+    multiple_affiliations: true
+    company1: afrimapr
+    company2: Liverpool School of Tropical Medicine
+    link1: http://afrimapr.org
+    link2: https://www.lstmed.ac.uk/about/people/dr-andy-south
+    person_img: ../../images/teams/andy-south.jpg
+    person_name: Dr Andy South
+    person_twitter: https://twitter.com/southmapr
+    person_linkedin: 
+    person_title1: Project Lead
+    person_title2: Research Associate
+
+    # collaborators item loop
+  - title: Data analysis & visualisation
+    multiple_affiliations: true
+    company1: afrimapr
+    company2: Talarify
+    link1: http://afrimapr.org
+    link2: http://www.talarify.co.za
+    person_img: ../../images/teams/anelda-van-der-walt.jpg
+    person_name: Anelda van der Walt
+    person_twitter: https://twitter.com/aneldavdw
+    person_linkedin: https://www.linkedin.com/in/aneldavanderwalt
+    person_title1: Project Collaborator
+    person_title2: Director
+    
+    # collaborators item loop
+  - title: Data analysis & visualisation
+    multiple_affiliations: false
+    company1: HeiGIT
+    link1: https://www.geog.uni-heidelberg.de/gis/eckle.html
+    person_img: ../../images/teams/melanie-eckle.png
+    person_name: Melanie Eckle
+    person_twitter: 
+    person_linkedin:
+    person_title1: Research Associate
