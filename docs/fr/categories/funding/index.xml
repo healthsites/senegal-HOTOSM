@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Funding on Mapping Senegal Emergency Health Services</title>
-    <link>https://healthsites.github.io/senegal-emergency-health-data/fr/categories/funding/</link>
+    <link>/senegal-emergency-health-data/fr/categories/funding/</link>
     <description>Recent content in Funding on Mapping Senegal Emergency Health Services</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Contenu publié sous CC-BY4.0 sauf indication contraire - [healthsites.io](https://healthsites.io/) Tous droits réservés - 2020</copyright>
     <lastBuildDate>Wed, 08 Jul 2020 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="https://healthsites.github.io/senegal-emergency-health-data/fr/categories/funding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/senegal-emergency-health-data/fr/categories/funding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Obtention de financements pour la cartographie des installations d&#39;urgence au Sénégal</title>
-      <link>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-1/</link>
+      <link>/senegal-emergency-health-data/fr/blog/blog-post-1/</link>
       <pubDate>Wed, 08 Jul 2020 11:07:10 +0600</pubDate>
       
-      <guid>https://healthsites.github.io/senegal-emergency-health-data/fr/blog/blog-post-1/</guid>
+      <guid>/senegal-emergency-health-data/fr/blog/blog-post-1/</guid>
       <description>Applications are now open for HOT’s Rapid Response Microgrant: #COVID19. Microgrants will be awarded to 4-8 OSM communities in Low and Middle Income Countries to enable vulnerable communities to be supported during the pandemic, https://t.</description>
     </item>
     
