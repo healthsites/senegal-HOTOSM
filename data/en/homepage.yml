@@ -65,11 +65,11 @@ funfacts:
     # funfacts item loop
     - icon : "ion-medkit" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Hospitals contacted"
-      count : "102"
+      count : "170"
       
     # funfacts item loop
     - icon : "ion-information-circled" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Data points added"
-      count : "0"
+      count : "102"
       
 
