@@ -9,7 +9,7 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["fr"]
 # to deploy on Github pages in docs directory from master branch
 publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -57,9 +57,14 @@ URL = "collaborators"
 weight = 1
 
 [[menu.main]]
+name = "Data"
+URL = "data"
+weight = 2
+
+[[menu.main]]
 name = "Blog"
 URL = "blog"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Contact"
