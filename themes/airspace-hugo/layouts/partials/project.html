@@ -15,6 +15,11 @@
           <i class="icon {{ .icon }}"></i>
           <h4>{{ .name | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
+          {{ if .button.enable }}
+          {{ with .button }}
+            <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
         </div>
       </div>
       {{ end }}
