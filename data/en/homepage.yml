@@ -33,10 +33,10 @@ portfolio:
   bg_image : "images/feature-bg.png"
   title : "WHAT WAS THE STATUS AT THE BEGINNING OF THE PROJECT?"
   content : >
-    "At the start of this project healthsites.io had collected information on 1,221 
+    At the start of this project healthsites.io had collected information on 1,221 
     health facilities in Senegal with most of them based in Dakar.
     Only partial information was available for all facilities listed in healthsites.io. 
-    This meant that most entries did not list details critical to support humanitarian responses.""
+    This meant that most entries did not list details critical to support humanitarian responses.
   button:
     enable : true
     label : "Visit healthsites.io"
