@@ -14,8 +14,16 @@ banner:
 about:
   enable : true
   title : "ABOUT THE PROJECT"
-  description : "In July 2020, OpenStreetMap Senegal will map all public hospitals in Senegal and update the emergency health services available. It is part of a larger campaign from healthsites.io to define emergency health services across Africa."
-  content : "We currently have basic information for a limited number of Senegalese health facilities in OpenStreetMap. We will establish building blocks that others can use and advance. We will compare the open data from 197 OpenStreetMap hospitals with that from the open data set developed by the KEMRI-Wellcome research program in 2018 and currently hosted by WHO. With the support of [Afrimapr] ( http://afrimapr.org), we will establish R building blocks to allow personalized analysis in the country using open source packages. We will be monitoring progress in terms of entering additional health facility data into OSM daily. For this, we will use tools such as the Ohsome application developed by HeiGIT and afrihealthsites developed by afrimapr."
+  description : >
+    "OpenStreetMap Senegal are mapping public hospitals in Senegal and updating the emergency health 
+    services available. This is part of a larger campaign from healthsites.io to define emergency health 
+    services across Africa."
+  content : >
+    "We compare open data from OpenStreetMap hospitals with an open data set developed by the 
+    KEMRI-Wellcome research program in 2018 and currently hosted by WHO. With the support of 
+    [Afrimapr]( http://afrimapr.org), we establish R building blocks to allow personalized analysis 
+    using open source packages. We monitor progress in terms of entering additional health facility data
+    into OSM through the Ohsome application developed by HeiGIT and afrihealthsites developed by afrimapr."
   image : "images/wrapper-img.png"
 
 
@@ -24,15 +32,11 @@ portfolio:
   enable : true
   bg_image : "images/feature-bg.png"
   title : "WHAT WAS THE STATUS AT THE BEGINNING OF THE PROJECT?"
-  content : "
-  At the start of this project healthsites.io had collected information on 1,221 health facilities in Senegal with most of them based in Dakar.
-
-
-  Most of the health facilities available in the healthsites.io database are pharmacies (48%) with doctors (24%), clinics (14%), hospitals (10%), and dentists (3%) making up the remainder of the entries.
-
-
-  Only partial information is available for all facilities listed in healthsites.io. This means most entries do not list details that are critical to support humanitarian responses.
-  "
+  content : >
+    "At the start of this project healthsites.io had collected information on 1,221 
+    health facilities in Senegal with most of them based in Dakar.
+    Only partial information was available for all facilities listed in healthsites.io. 
+    This meant that most entries did not list details critical to support humanitarian responses.""
   button:
     enable : true
     label : "Visit healthsites.io"
@@ -60,7 +64,7 @@ cta:
 funfacts:
   enable : true
   title : "The Project in Numbers"
-  description : "These numbers will be updated every day for the duration of the project to represent the number of data points that has been added to healthsites.io"
+  description : 
   funfact_item:
     # funfacts item loop
     - icon : "ion-medkit" #ionicon pack v2 : https://ionicons.com/v2/
