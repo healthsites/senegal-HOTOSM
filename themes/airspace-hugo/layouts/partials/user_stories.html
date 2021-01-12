@@ -1,3 +1,4 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
 {{ if $data.user_stories.enable }}
 {{ with $data.user_stories }}
 <section class="about section">
