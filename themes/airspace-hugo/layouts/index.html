@@ -76,8 +76,14 @@
 {{ end }}
 
 <!-- User_stories -->
-{{ if $data.user_stories.enable }}
-{{ partial "user_stories.html" . }}
+{{ if $data.user_stories_1.enable }}
+{{ partial "user_stories_1.html" . }}
+{{ end }}
+<!-- /User_stories -->
+
+<!-- User_stories -->
+{{ if $data.user_stories_2.enable }}
+{{ partial "user_stories_2.html" . }}
 {{ end }}
 <!-- /User_stories -->
 

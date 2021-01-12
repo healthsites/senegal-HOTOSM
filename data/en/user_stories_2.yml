@@ -1,0 +1,8 @@
+############################# User Stories ###############################
+enable : true
+title : ""
+description : "Deconstructing user stories"
+content: >
+  When we deconstruct user stories, we can understand what kind of information is needed to support the story. 
+  Our examples are deconstructed in the table below...
+image: "images/user_stories_2.png"
