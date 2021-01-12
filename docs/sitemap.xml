@@ -1,18 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://healthsites.github.io/senegal-emergency-health-data/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-07-08T11:07:10+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://healthsites.github.io/senegal-emergency-health-data/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2020-07-08T11:07:10+06:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/blog/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/categories/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/categories/funding/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/tags/gis/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/tags/health-facilities/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/tags/hotosm-microgrant/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/blog/blog-post-1/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/tags/</loc>
+    <lastmod>2020-07-08T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/collaborators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://healthsites.github.io/senegal-emergency-health-data/data/</loc>
+  </url>
+  
+</urlset>
