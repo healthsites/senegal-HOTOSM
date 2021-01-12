@@ -1,8 +1,8 @@
 ############################# Service ###############################
 project:
   enable : true
-  title : "Project Plan"
-  description : "The project has several collaborators"
+  title : "Project Overview"
+  description : ""
   service_item:
     # service item loop
     - icon : ion-ios-telephone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
@@ -18,7 +18,11 @@ project:
     - icon : ion-map #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Open data comparison
       content: "The afrimapr team provide data analysis and comparison with other open health facility data"
-
+      button:
+        enable : true
+        label : "Visualise data"
+        link : "data"
+  
     # service item loop
     - icon : ion-unlocked #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Open licensing
@@ -28,7 +32,11 @@ project:
     - icon : ion-clock #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Historical comparison
       content: "The HeiGIT team will facilitate historical comparisons with OSM data via their tool - OHSome"
-      
+      button:
+        enable : true
+        label : "Visualise data"
+        link : "https://ohsome.org/apps/osm-history-explorer/#/healthsites_ANY_nwr_kmry_ANY_completeness/2019-06-01T00:00:00Z/8/15/-16"
+     
     # service item loop
     - icon : ion-compose #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Share experience
