@@ -1,0 +1,9 @@
+############################# User Stories ###############################
+enable : true
+title : "Emergency health user stories"
+description : "How to drive development of the data"
+content: >
+  We take a Human Centered Design to drive the development of baseline health facility data.
+  We invite specialists to share user stories that communicate emergency health needs in parts of the 
+  world where service is poor. This helps us identify the baseline health facility attributes to focus on.
+image: "images/user_stories.png"

@@ -75,6 +75,12 @@
 {{ end }}
 {{ end }}
 
+<!-- User_stories -->
+{{ if $data.user_stories.enable }}
+{{ partial "user_stories.html" . }}
+{{ end }}
+<!-- /User_stories -->
+
 <!-- Service -->
 {{ if $data.homepage.project.enable }}
 {{ partial "project.html" . }}

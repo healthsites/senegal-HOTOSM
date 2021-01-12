@@ -2,27 +2,27 @@
 project:
   enable : true
   title : "Project Plan"
-  description : "The project has several collaborators who will each play a role"
+  description : "The project has several collaborators"
   service_item:
     # service item loop
     - icon : ion-ios-telephone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Emergency health data
-      content: "Senegal's OpenStreetMap cartographers will contact hospitals to confirm available emergency services"
+      content: "Senegal’s OpenStreetMap cartographers called hospitals to confirm available emergency services"
 
     # service item loop
     - icon : ion-document-text #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: OpenStreetMap
-      content: "Health facility data will be uploaded to OpenStreetMap by the cartographers"
+      content: "Health facility data uploaded to OpenStreetMap by the cartographers"
 
     # service item loop
     - icon : ion-map #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Open data comparison
-      content: "The afrimapr team will provide data analysis and comparison with other open health facility data"
+      content: "The afrimapr team provide data analysis and comparison with other open health facility data"
 
     # service item loop
     - icon : ion-unlocked #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Open licensing
-      content: "All materials, including blog posts, images, code, and data created in this project will be released under open licenses"
+      content: "All materials, including blog posts, images, code, and data created in this project are released under open licenses"
 
     # service item loop
     - icon : ion-clock #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
