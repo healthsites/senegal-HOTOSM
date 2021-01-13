@@ -63,17 +63,25 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable : true
-  title : "The Project in Numbers"
+  title : "104 Emergency Health Locations Updated"
   description : 
   funfact_item:
     # funfacts item loop
-    - icon : "ion-medkit" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Hospitals contacted"
-      count : "170"
+    - icon : "ion-ios-medkit-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Clinics"
+      count : "5"
       
     # funfacts item loop
-    - icon : "ion-information-circled" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Data points added"
-      count : "102"
+    - icon : "ion-ios-people" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Doctors"
+      count : "63"
       
+    # funfacts item loop
+    - icon : "ion-ios-medkit" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Hospitals"
+      count : "35"
 
+    # funfacts item loop
+    - icon : "ion-ios-flask" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Pharmacies"
+      count : "1"
