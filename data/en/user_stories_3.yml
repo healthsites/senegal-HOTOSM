@@ -1,8 +1,10 @@
 ############################# User Stories ###############################
 enable : true
-title : ""
+title : "User story example 1"
 description : ""
 content: >
-  * As an epidemiologist I want to know the number of hospital beds at a health
-  facility so that I can assess the capacity to manage a disease outbreak event - Beds (no.)
+  \"As an epidemiologist I want to know the number of hospital beds at a health
+  facility so that I can assess the capacity to manage a disease outbreak event - Beds (no.)\"
 image: "images/user_stories_3.png"
+link: "images/HOTSenegal_heigit_beds2020.png"
+click: "Click here to view map image showing improvements to the \"beds=\" key"

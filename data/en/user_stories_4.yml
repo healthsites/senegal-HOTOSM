@@ -1,8 +1,10 @@
 ############################# User Stories ###############################
 enable : true
-title : ""
+title : "User story example 2"
 description : ""
 content: >
-  * As a citizen responding to a road accident I want to know where the nearest
-  emergency facility is so that we can get there quickly - emergency (yes / No) 
+  \"As a citizen responding to a road accident I want to know where the nearest
+  emergency facility is so that we can get there quickly - emergency (yes / No) \"
 image: "images/user_stories_4.png"
+link: "images/HOTSenegal_heigit_emergency_tag.png"
+click: "Click here to view map image showing improvements to the \"emergency=yes\" tag"
